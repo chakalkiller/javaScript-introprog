@@ -19,8 +19,9 @@ p {
 
 section,
 footer {
+  text-align: center;
   padding: 10px;
-  font-size: 1.5em;
+  font-size: 5.5em;
 }
 
 a {
